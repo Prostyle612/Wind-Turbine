@@ -1,0 +1,1 @@
+Here is a wind turbine I created for my E26 class. This porject was intended to test our CADing capabilities and the overall wind turbine underwent a variety of tests. From applied forces to power output, the wind turnine placed 1st overall out of ~40 projects.
